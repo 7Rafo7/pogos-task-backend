@@ -31,6 +31,8 @@ $ yarn run start:prod
 ```
 
 ## Additional Notes
+Backend runs on http://localhost:5000.
+
 WebSocket support for real-time communication is implemented using Nest.js WebSockets.
 
 Messages are stored in-memory, and no database is required for this implementation.
